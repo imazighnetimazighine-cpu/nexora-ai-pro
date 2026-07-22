@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: NEXORA AI PRO",
+  "description": "Futuristic Pocket Option OTC Signal Analyzer with English and Arabic support, real-time signal-accuracy metrics, live signals, statistics, history, and customizable settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
